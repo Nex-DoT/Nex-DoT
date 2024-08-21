@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nex-DoT/Nex-DoT/output/snake.svg" alt="Snake animation" />
-
-###
